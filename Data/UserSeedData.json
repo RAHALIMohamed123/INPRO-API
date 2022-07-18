@@ -1,0 +1,194 @@
+[
+    {
+      "Username": "Beverley",
+      "Gender": "female",
+      "DateOfBirth": "1997-06-27",
+      "Password": "password",
+      "FullName": "Beverley",
+      "CreatedDateTime": "2017-06-25",
+      "City": "Williamson",
+      "Country": "El Salvador",
+      "Department": "Algeria",
+      "UserInfoId": 1,
+      "ProfilId": "A",
+      "Photos": [
+        {
+          "url": "https://randomuser.me/api/portraits/women/86.jpg",
+          "isMain": true
+        }
+      ]
+    },
+    {
+      "Username": "Hilda",
+      "Gender": "female",
+      "DateOfBirth": "1993-12-09",
+      "Password": "password",
+      "FullName": "Hilda",
+      "CreatedDateTime": "2017-08-20",
+      "City": "Cazadero",
+      "Country": "Haiti",
+      "Department": "United States",
+      "UserInfoId": 1,
+      "ProfilId": "A",
+      "Photos": [
+        {
+          "url": "https://randomuser.me/api/portraits/women/98.jpg",
+          "isMain": true
+        }
+      ]
+    },
+    {
+      "Username": "Cara",
+      "Gender": "female",
+      "DateOfBirth": "1983-04-25",
+      "Password": "password",
+      "FullName": "Cara",
+      "CreatedDateTime": "2017-04-06",
+      "City": "Orason",
+      "Country": "Grenada",
+      "Department": "Bermuda",
+      "UserInfoId": 1,
+      "ProfilId": "A",
+      "Photos": [
+        {
+          "url": "https://randomuser.me/api/portraits/women/77.jpg",
+          "isMain": true
+        }
+      ]
+    },
+    {
+      "Username": "Josefa",
+      "Gender": "female",
+      "DateOfBirth": "1953-11-29",
+      "Password": "password",
+      "FullName": "Josefa",
+      "CreatedDateTime": "2017-07-27",
+      "City": "Hartsville/Hartley",
+      "Country": "Gibraltar",
+      "Department": "Bangladesh",
+      "UserInfoId": 1,
+      "ProfilId": "A",
+      "Photos": [
+        {
+          "url": "https://randomuser.me/api/portraits/women/99.jpg",
+          "isMain": true
+        }
+      ]
+    },
+    {
+      "Username": "Kathrine",
+      "Gender": "female",
+      "DateOfBirth": "1967-01-05",
+      "Password": "password",
+      "FullName": "Kathrine",
+      "CreatedDateTime": "2017-08-06",
+      "City": "Grazierville",
+      "Country": "Tanzania",
+      "Department": "Reunion",
+      "UserInfoId": 1,
+      "ProfilId": "A",
+      "Photos": [
+        {
+          "url": "https://randomuser.me/api/portraits/women/17.jpg",
+          "isMain": true
+        }
+      ]
+    }
+  ,
+  
+    {
+      "Username": "Wade",
+      "Gender": "male",
+      "DateOfBirth": "1962-02-02",
+      "Password": "password",
+      "FullName": "Wade",
+      "CreatedDateTime": "2017-03-02",
+      "City": "Kirk",
+      "Country": "Somalia",
+      "Department": "Eritrea",
+      "UserInfoId": 1,
+      "ProfilId": "A",
+      "Photos": [
+        {
+          "url": "https://randomuser.me/api/portraits/men/71.jpg",
+          "isMain": true
+        }
+      ]
+    },
+    {
+      "Username": "Bryant",
+      "Gender": "male",
+      "DateOfBirth": "1952-06-23",
+      "Password": "password",
+      "FullName": "Bryant",
+      "CreatedDateTime": "2017-08-05",
+      "City": "Succasunna",
+      "Country": "Bhutan",
+      "Department": "Norfolk Island",
+      "UserInfoId": 1,
+      "ProfilId": "A",
+      "Photos": [
+        {
+          "url": "https://randomuser.me/api/portraits/men/93.jpg",
+          "isMain": true
+        }
+      ]
+    },
+    {
+      "Username": "Waters",
+      "Gender": "male",
+      "DateOfBirth": "1991-09-26",
+      "Password": "password",
+      "FullName": "Waters",
+      "CreatedDateTime": "2017-06-07",
+      "City": "Hiko",
+      "Country": "Saint Vincent and The Grenadines",
+      "Department": "Reunion",
+      "UserInfoId": 1,
+      "ProfilId": "A",
+      "Photos": [
+        {
+          "url": "https://randomuser.me/api/portraits/men/35.jpg",
+          "isMain": true
+        }
+      ]
+    },
+    {
+      "Username": "Salas",
+      "Gender": "male",
+      "DateOfBirth": "1998-06-14",
+      "Password": "password",
+      "FullName": "Salas",
+      "CreatedDateTime": "2017-02-23",
+      "City": "Dennard",
+      "Country": "East Timor",
+      "Department": "Latvia",
+      "UserInfoId": 1,
+      "ProfilId": "A",
+      "Photos": [
+        {
+          "url": "https://randomuser.me/api/portraits/men/63.jpg",
+          "isMain": true
+        }
+      ]
+    },
+    {
+      "Username": "Richard",
+      "Gender": "male",
+      "DateOfBirth": "1974-09-28",
+      "Password": "password",
+      "FullName": "Richard",
+      "CreatedDateTime": "2017-06-19",
+      "City": "Ladera",
+      "Country": "Russian Federation",
+      "Department": "Malta",
+      "UserInfoId": 1,
+      "ProfilId": "A",
+      "Photos": [
+        {
+          "url": "https://randomuser.me/api/portraits/men/49.jpg",
+          "isMain": true
+        }
+      ]
+    }
+  ]
